@@ -30,6 +30,6 @@
 
 1. Download Repo Zip
 2. Open explained.js to see the code description
-3. Open optimized/index.html file in Chrome or Firefox to see the improvement propose and render
+3. Open optimized/index.html file in Chrome or Firefox to view the suggested improvements and render
 
 <p align="right">(<a href="#top">back to top</a>)</p>
