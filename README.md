@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/icgarzon/A-G_CodeExplain">
-    <img src="optimized/assets/images/project.svg" alt="Logo" width="80" height="80">
+    <img src=".common/project.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">A&G Spreadsheet</h3>
