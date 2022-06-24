@@ -1,0 +1,9 @@
+.product{}
+.product > .product__heading{ text-align: center; margin: 50px 0px 10px 0; }
+.product > .product__description{ text-align: center; margin: 10px 0px 70px 0; }
+
+.product > .features{ width: 70%; margin:auto; }
+.product > .features > ul{ list-style-type: none; padding: 0; margin: 0; width: 100%; display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; }
+.product > .features > ul > .features__item{ width: 22%; text-align: center; padding: 10px 1.5%; margin-bottom: 40px; }
+.product > .features > ul > .features__item > .features__item-icon{ font-family:"icomoon"; font-size:65px; font-weight:normal;font-variant-ligatures:normal;font-variant-caps:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;color:#de0614 }
+.product > .features > ul > .features__item > .features__item-title{ font-weight: 600; font-size: 1.2em; padding: 30px 20px; }

@@ -1,0 +1,18 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+   .product > .product__heading{ margin: 50px 20px 10px; }
+   .product > .product__description{ margin: 10px 0px 70px 0; }
+   .product > .features{ width:95%; }
+   .product > .features > ul{ flex-direction: row; }
+   .product > .features > ul > .features__item{ width: 97%; padding: 10px 1.5%; margin-bottom: 40px; }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width:600px) and (max-width: 900px) {
+   .product > .features{ width:95%; }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+   .product > .features{  }
+}

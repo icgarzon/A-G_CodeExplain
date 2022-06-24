@@ -1,0 +1,54 @@
+{
+   "title": "Home Insurance Solved™ with Budget Direct",
+   "description": "Compare before you buy and choose the home insurance that’s right for you. Not all benefits apply to all levels of cover.",
+   "features":[ 
+      {
+         "id": "1",
+         "title": "Tailor-made cover",
+         "description": "Save by restricting your policy to drivers over a certain age: 21+, 25+, 30+, 40+, 50+ - the biggest age range of any major insurer.",
+         "icon": "tailor-made-insurance"
+      },
+      {
+         "id": "2",
+         "title": "Lifetime guarantee",
+         "description": "A lifetime guarantee on authorized repairs for as long as you own the car.",
+         "icon": "lifetime"
+      },
+      {
+         "id": "3",
+         "title": "New car replacement",
+         "description": "If you brand-new car is written off within two years or 40.000km of the original registration (whichever comes first), we’ll replace it with a new one (Gold Comprehensive).",
+         "icon": "new-car"
+      },
+      {
+         "id": "4",
+         "title": "24/7 claims",
+         "description": "You can lodge a claim over the phone or online at any time of the day or night, 365 days a year.",
+         "icon": "clock"
+      },
+      {
+         "id": "5",
+         "title": "Outstanding value",
+         "description": "Winner of Canstar’s Outstanding Value Car Insurance award for a record 14 years in a row (2007 to 2020).",
+         "icon": "car-value"
+      },
+      {
+         "id": "6",
+         "title": "Highly rated claims",
+         "description": "A 4.2 out of 5 stars claims service, based on nearly 5.000 customer reviews collected by Baazarvoice, a leading independent ratings provider.",
+         "icon": "lifetime"
+      },
+      {
+         "id": "7",
+         "title": "Towing costs",
+         "description": "If you car is involved in an accident and can’t be safely driven, we will pay the reasonable cost of towing your car.",
+         "icon": "tow"
+      },
+      {
+         "id": "8",
+         "title": "Hire car following a no fault accident or theft.",
+         "description": "If we agree to pay your claim for a no fault accident or theft of your car, you’ll be eligible for a hire car.",
+         "icon": "key"
+      }
+   ]
+}

@@ -1,0 +1,20 @@
+@import url('./icons.css');
+@import url('./estructure.css');
+@import url('./responsive.css');
+
+@font-face{
+   font-family:"icomoon";
+   src:url("../../../.common/icomoon.woff2") format("woff2"),
+   url("../../../.common/icomoon.woff") format("woff");
+   font-weight:normal;font-style:normal;
+}
+
+@font-face{font-family:'MuseoSans-900';src:url('../../../.common/MuseoSans-900.woff2') format('woff2'),url('../../../.common/MuseoSans-900.woff') format('woff');font-display:swap}
+@font-face{font-family:'MuseoSans-700';src:url('../../../.common/27CCFD_1_0.woff2') format('woff2'),url('../../../.common/27CCFD_1_0.woff') format('woff');font-display:swap}
+@font-face{font-family:'MuseoSans-300';src:url('../../../.common/27CCFD_2_0.woff2') format('woff2'),url('../../../.common/27CCFD_2_0.woff') format('woff');font-display:swap}
+@font-face{font-family:'MuseoSans';font-style:normal;font-weight:300;font-display:swap;src:url('../../../.common/27CCFD_2_0.woff2') format('woff2'),url('../../../.common/27CCFD_2_0.woff') format('woff')}
+@font-face{font-family:'MuseoSans';font-style:normal;font-weight:700;font-display:swap;src:url('../../../.common/27CCFD_1_0.woff2') format('woff2'),url('../../../.common/27CCFD_1_0.woff') format('woff')}
+@font-face{font-family:'MuseoSans';font-style:normal;font-weight:900;font-display:swap;src:url('../../../.common/MuseoSans-900.woff2') format('woff2'), url('../../../.common/MuseoSans-900.woff') format('woff')}
+   
+body{ margin:0; padding:0; font-family:"MuseoSans",Helvetica,Arial,sans-serif; font-weight:300; font-size:16px; line-height:1.35; color:#3c4449; }
+header{ background-image: url(https://www.budgetdirect.com.au/content/dam/budgetdirect/website-assets/2017/shared/content/budget-direct-logo.svg); background-repeat: no-repeat; background-position: center center; background-size: auto 60%; height:100px; padding: 15px 0px; border-bottom: 3px solid #ccc;  }
