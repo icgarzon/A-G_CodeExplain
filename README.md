@@ -33,7 +33,7 @@
 3. Open optimized/index.html file in Chrome or Firefox to view the suggested improvements and render
 
 ### Notes
-For invoke the init method I used with this:
+For invoke the init method I used this in the html:
 ```javascript
 test?.init();
 ```
