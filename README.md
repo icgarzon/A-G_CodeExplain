@@ -15,7 +15,7 @@
     <a href="https://github.com/icgarzon/A-G_CodeExplain"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ivangarzon.dev/git/ag/explain.js">View JS Explain</a>
+    <a href="https://ivangarzon.dev/git/ag/explained.js">View JS Explain</a>
     ·
     <a href="https://ivangarzon.dev/git/ag/index.html">View Demo</a>
     ·
