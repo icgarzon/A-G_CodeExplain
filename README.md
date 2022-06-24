@@ -29,7 +29,13 @@
 ### Installation
 
 1. Download Repo Zip
-2. Open explained.js to see the code description
+2. Open explained.js to see the code description line by line in init function
 3. Open optimized/index.html file in Chrome or Firefox to view the suggested improvements and render
+
+### Notes
+For invoke the init method I used with this:
+```javascript
+test?.init();
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
